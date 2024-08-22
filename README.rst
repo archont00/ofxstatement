@@ -166,9 +166,9 @@ Plugin                            Description
 
 .. _ofxstatement-lithuanian: https://github.com/kedder/ofxstatement-lithuanian
 .. _ofxstatement-czech: https://gitlab.com/mcepl/ofxstatement-czech
-.. _ofxstatement-airbankcz: https://github.com/milankni/ofxstatement-airbankcz
-.. _ofxstatement-raiffeisencz: https://github.com/milankni/ofxstatement-raiffeisencz
-.. _ofxstatement-unicreditcz: https://github.com/milankni/ofxstatement-unicreditcz
+.. _ofxstatement-airbankcz: https://github.com/archont00/ofxstatement-airbankcz
+.. _ofxstatement-raiffeisencz: https://github.com/archont00/ofxstatement-raiffeisencz
+.. _ofxstatement-unicreditcz: https://github.com/archont00/ofxstatement-unicreditcz
 .. _ofxstatement-equabankcz: https://github.com/kosciCZ/ofxstatement-equabankcz
 .. _ofxstatement-mbankcz: https://github.com/SinyaWeo/ofxstatement-mbankcz
 .. _ofxstatement-otp: https://github.com/abesto/ofxstatement-otp
